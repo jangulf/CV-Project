@@ -6,7 +6,7 @@ import { ExperienceForm } from "./components/ExperienceForm";
 import { CvPreview } from "./components/CvPreview";
 
 const initialCv: CvData = {
-  fullName: "---",
+  fullName: "Max Mustermann",
   title: "IT Systems / DevOps Engineer",
   summary:
     "Low-code/no-code application development, DevOps, cloud platforms, and embedded systems with a focus on reliable, well-documented solutions.",
@@ -17,7 +17,7 @@ const initialCv: CvData = {
       from: "04/2025",
       to: "Heute",
       title: "IT Systems Engineer – Low-Code Application Development",
-      company: "Escriba AG",
+      company: "Es AG",
       description:
         "Low-code/no-code application development, SQL-based databases, backend programming with Java 7 and JavaScript. API and web service integrations (REST/SOAP), SAP & SAP SuccessFactors integration, Tomcat configuration, Grafana monitoring, and technical solution design."
     },
@@ -26,7 +26,7 @@ const initialCv: CvData = {
       from: "11/2024",
       to: "02/2025",
       title: "DevOps Engineer Kurs",
-      company: "DataScientest",
+      company: "Data",
       description:
         "Linux-Systemadministration, NGINX, AWS (Cloud Practitioner, Solutions Architect), Docker, Kubernetes, Jenkins, Monitoring (Prometheus, Grafana, Datadog), Terraform, Ansible, Datenbanken (MySQL, PostgreSQL, MongoDB)."
     },
@@ -35,7 +35,7 @@ const initialCv: CvData = {
       from: "05/2024",
       to: "11/2024",
       title: "DevOps Engineer",
-      company: "Nicos AG, Münster",
+      company: "Nic AG, Münster",
       description:
         "ServiceNow Platform DevOps, Service Katalog, CMDB, CI/CD, AWS (ECS/EKS, S3, Lambda), CloudFormation, JavaScript, Python Scripting & Automation, Cisco ISE, OTRS, GitLab, Workflow Automation, Agile Planung, Dokumentation."
     }
@@ -65,7 +65,7 @@ const initialCv: CvData = {
       id: "e1",
       from: "04/2020",
       to: "05/2024",
-      school: "Berliner Hochschule für Technik (BHT), Berlin",
+      school: "TU, Berlin",
       degree:
         "Bachelor of Engineering (B.Eng.), Technische Informatik (Embedded Systems)"
     },
@@ -73,7 +73,7 @@ const initialCv: CvData = {
       id: "e2",
       from: "11/2016",
       to: "02/2019",
-      school: "Winkler+Partner GmbH, Berlin",
+      school: "Wink GmbH, Berlin",
       degree:
         "Ausbildung Elektroniker für Energie und Gebäudetechnik / Gebäude- und Elektrotechnik"
     }
